@@ -1,0 +1,133 @@
+{
+  "App.dll": {
+    "C:\\Users\\Oleksiy_Shovkoplyas\\source\\repos\\CiFun\\App\\Calculator.cs": {
+      "App.Calculator": {
+        "System.Decimal App.Calculator::Add(System.Decimal,System.Decimal)": {
+          "Lines": {
+            "9": 1,
+            "10": 1,
+            "11": 1
+          },
+          "Branches": []
+        },
+        "System.Decimal App.Calculator::Divide(System.Decimal,System.Decimal)": {
+          "Lines": {
+            "14": 1,
+            "15": 1,
+            "16": 0,
+            "17": 0,
+            "20": 1,
+            "21": 1
+          },
+          "Branches": [
+            {
+              "Line": 15,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 15,
+              "Offset": 14,
+              "EndOffset": 28,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "App.Calculator/<LongTask>d__2": {
+        "System.Void App.Calculator/<LongTask>d__2::MoveNext()": {
+          "Lines": {
+            "24": 0,
+            "25": 0,
+            "27": 0,
+            "28": 0
+          },
+          "Branches": [
+            {
+              "Line": 25,
+              "Offset": 38,
+              "EndOffset": 40,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 25,
+              "Offset": 38,
+              "EndOffset": 104,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Oleksiy_Shovkoplyas\\source\\repos\\CiFun\\App\\Program.cs": {
+      "App.Program/<Main>d__0": {
+        "System.Void App.Program/<Main>d__0::MoveNext()": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "15": 0,
+            "17": 0,
+            "19": 0,
+            "21": 0,
+            "23": 0,
+            "24": 0,
+            "26": 0,
+            "27": 0,
+            "29": 0,
+            "31": 0,
+            "33": 0,
+            "35": 0,
+            "36": 0,
+            "38": 0,
+            "40": 0
+          },
+          "Branches": [
+            {
+              "Line": 12,
+              "Offset": 55,
+              "EndOffset": 64,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 163,
+              "EndOffset": 165,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 12,
+              "Offset": 55,
+              "EndOffset": 204,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 163,
+              "EndOffset": 232,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}
